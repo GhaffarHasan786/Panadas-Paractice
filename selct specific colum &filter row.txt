@@ -1,0 +1,25 @@
+        SELECT SPECIFIC coloum
+1 ager hum ny kisi specific columns ko select krna ho to us k liye hum simple square bracket ka use ker k us
+my colum name pass kr dty ha
+2 aur ager multiple coloum ko krna hoto pher squarebracket my coloum ki list passkrty ha
+
+example of single coloum
+
+coloum = df["coloum name] ye series dy ga
+subset = df["coloum1",coloum2..."] ye data frame dy ga
+
+
+
+   FILTER THE ROW
+
+1 ager hum ny kisi row ko filter krna ho yani data ko change ya thk 
+ ya delete krna ho to pher Boolean indexing yani condition ko use kerty ha
+
+ example
+ based on a singlerow
+ filtered_row = df[df["salary"]>60000]
+
+ based on multiple row
+ filtered_row = df[df["salary"]>60000 &["salary"]<50000]
+
+

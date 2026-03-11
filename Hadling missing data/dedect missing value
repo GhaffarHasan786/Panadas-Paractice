@@ -1,0 +1,4 @@
+NaN ye use hota ha (not a number) yani yaha koi number ya value ni
+None ye b use hota ha (for object datatype)
+.isnull() ye use hoti ha malum krny k liye k data kha missing ha 
+isnull.sum ye use hota ha k data kitna missing ha

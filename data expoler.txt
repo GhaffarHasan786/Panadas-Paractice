@@ -1,0 +1,3 @@
+1 data set ko smjna k is my row aur column kitny ha data type kia ha kis formt ka ha
+2 plobrem ko understand kerna ki koi vaue missing to ni,data manulplate sai hua ha
+3 plans the next step 
